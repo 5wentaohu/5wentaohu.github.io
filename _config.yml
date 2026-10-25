@@ -7,13 +7,13 @@ title: 海绵的博客
 subtitle: '回忆旅途的风光'
 description: '我的学习生活日常'
 keywords:
-author: missing
+author: 5wentaohu
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://5wentaohu.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
